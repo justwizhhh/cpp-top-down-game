@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="2020.06.12" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="MainTileset.tsx"/>
+ <tileset firstgid="109" source="MainObjectTileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="22" height="15" offsetx="352" offsety="0">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAoBI0HAJLGERYgdaMAA0rwgyjFPt3XmngXAEgZD+cDp9adapzxBUGwDD2MNYhBhhceBu0BSY6l9cABfyASlMccv9zyyjU1ueSRdKdpFb+rUaDw2oqEAmACA0NHNBt0N+vH+PMyf8N4iDk/sYk3RMI96TaHeC+3ez2GnvOt0TsbzfA6TCIEAF73Q+yae+aeNr79fZjbIqYyX0QQWIMWCi6K1nh0dJ+Ai9H53OUXZyIv0AnTSBl/pf1Aj2d5PPeKwl08Zsb1STfe+CqBcMyCfUf24FjzvU003JINnpgfRPNoNUODPTBh/czcxtXTPbDCyr27aJcG0AM=
+  </data>
+ </layer>
+ <layer id="2" name="Object Layer 1" width="22" height="15" offsetx="352" offsety="0">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAoBF0BADAAAG9ubwAPgKA9K3AVcPILtC92+hu4t4DAC5g7QYC05xSsBEg7105UIAM=
+  </data>
+ </layer>
+</map>

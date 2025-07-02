@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="2020.06.12" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <editorsettings>
+  <export target="Room2-2.csv" format="csv"/>
+ </editorsettings>
+ <tileset firstgid="1" source="MainTileset.tsx"/>
+ <tileset firstgid="109" source="MainObjectTileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="22" height="15" offsetx="704" offsety="-480">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAoBH0HAHIGERVQb6MAH8SC53zBbn6OI7bEehVZDR9fCDVWnTrloARgmbO0IEglyEBg7WBQs5vHHW8EEIwvrkhneOGE5OssV55+P08CU6ABaqbl+gBgAjM0ZhuXsXWlx37ve70OvgnJ/OExBx0NA2h7dAHI/0GODQLE8yAR/ppggphmXgN5yIcNq+66kO4SkQlz06Y7zMnkKuY+ZWBmb2lsmwfP3lC3CBfUL1Uj482y79dzAtyjuIG7ft7oSb4N4fYPGFNszGwg8jlj5GPAqPc3C+i6GT2O8TllJVzWa/4m0bB0ZwmOIvul+ULsgykw/PP9mfkD
+  </data>
+ </layer>
+ <layer id="2" name="Object Layer 1" width="22" height="15" offsetx="704" offsety="-480">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAoBH0BAGgAAG5zAG8Ab28Ab3IAC4Bw1AfBuaWojTUZmCWgcEaGcsFRMpUpgB5cyq6zp4IR
+  </data>
+ </layer>
+</map>
